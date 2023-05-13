@@ -1,0 +1,28 @@
+CODERHOUSE ACT 3 by Tadeo Miranda
+
+-----------------------------------------------------------------------------
+
+My project is a Django CRUD application that allows me to manage a list of family members. I built the application using Django.
+
+To make the application more visually appealing, I used Bootstrap and CSS to style the front end.
+
+To create the user interface, I used HTML templates, which are reusable chunks of HTML code that let me create consistent designs across multiple pages. 
+
+The application allows me to create, read, update, and delete family members, which are stored in a database. With the CRUD functionality, I can add new family members, edit their details, view their information, and remove them from the list. This makes it easy for me to keep track of my family members and their information in one place.
+
+-----------------------------------------------------------------------------
+
+Create virtual env:
+Run: 
+
+pip install Django==3.2.8
+pip install PyMySQL
+pip install Pillow
+pip install pytz
+#########################
+pip install pathlib
+
+
+Run server:
+
+python manage.py runserver
