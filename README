@@ -10,11 +10,10 @@ To create the user interface, I used HTML templates, which are reusable chunks o
 
 The application allows me to create, read, update, and delete family members, which are stored in a database. With the CRUD functionality, I can add new family members, edit their details, view their information, and remove them from the list. This makes it easy for me to keep track of my family members and their information in one place.
 
+I aslo created a MySQL db test (3306)
+
 -----------------------------------------------------------------------------
-
-Create virtual env:
-Run: 
-
+env
 pip install Django==3.2.8
 pip install PyMySQL
 pip install Pillow
@@ -23,6 +22,5 @@ pip install pytz
 pip install pathlib
 
 
-Run server:
+Run server
 
-python manage.py runserver
