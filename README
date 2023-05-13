@@ -3,6 +3,8 @@ CODERHOUSE ACT 3 by Tadeo Miranda
 At this time (MAY/13/2023) There is a lot of work that I have to do one the user interface, pages, buttons and that stuff
 Soooo im still working on that :D
 
+The first START button is not working, navigate w the navbar, on the "Family" section u can try the CRUD app
+
 -----------------------------------------------------------------------------
 
 My project is a Django CRUD application that allows me to manage a list of family members. I built the application using Django.
